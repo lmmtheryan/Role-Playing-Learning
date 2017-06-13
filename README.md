@@ -1,5 +1,5 @@
 # Role-Playing-Learning
-Codes for Learning and Simulation of Role Playing Learning for Socially Concomitant Mobile Robot Navigation
+Codes for Learning and Simulation of Role Playing Learning for Socially Concomitant Mobile Robot Navigation https://arxiv.org/abs/1705.10092
 
 Developed based on RLLAB-py2 https://github.com/openai/rllab/tree/py2
 
