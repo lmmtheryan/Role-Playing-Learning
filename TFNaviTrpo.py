@@ -2,8 +2,9 @@ from __future__ import print_function
 from __future__ import absolute_import
 from sandbox.rocky.tf.optimizers.conjugate_gradient_optimizer import ConjugateGradientOptimizer
 from TFNaviNpo import NaviNPO
+from TFNaviMonteCarlo import NaviMonteCarlo
 
-class NaviTRPO(NaviNPO):
+class NaviTRPO(NaviMonteCarlo):
     """
     Trust Region Policy Optimization
     """
